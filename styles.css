@@ -1,0 +1,18 @@
+.tabla {
+    width: 50%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+}
+
+.tabla th,
+.tabla td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+.tabla th {
+    background-color: #f4f4f4;
+}
+
